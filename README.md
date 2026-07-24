@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=2E10F7&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme+Galdino!" alt="Typing SVG" /></a>
 <div>
-  <p>Estudante de Desenvolvimento de sistemas</p>
-  <p>Atualmente sou estudante do curso técnico em Desenvolvimento de sistemas no SENAI</p>
-  <p>Conhecimento nos cursos AI-900, AI-102 e SC-900 da trilha Microssoft</p>
+  <p>Estudante de Desenvolvimento de sistemas.</p>
+  <p>Atualmente sou estudante do curso técnico em Desenvolvimento de sistemas no SENAI.</p>
+  <p>Conhecimento nos cursos AI-900, AI-102 e SC-900 da trilha Microssoft.</p>
 </div>
 <!--
 **GuilhermeGaldino08/GuilhermeGaldino08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
