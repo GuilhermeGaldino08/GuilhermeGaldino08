@@ -2,7 +2,7 @@
 <div>
   <p>Estudante de Desenvolvimento de sistemas.</p>
   <p>Atualmente curso o Técnico em Desenvolvimento de Sistemas no SENAI.</p>
-  <p>Conhecimento nos cursos AI-900, AI-102 e SC-900 da trilha Microssoft.</p>
+  <p>Conhecimentos adquiridos nos cursos AI-900, AI-102 e SC-900 da trilha Microssoft.</p>
 </div>
 <!--
 **GuilhermeGaldino08/GuilhermeGaldino08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
