@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=81F725&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme+Galdino!" alt="Typing SVG" /></a>
 
 <!--
 **GuilhermeGaldino08/GuilhermeGaldino08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
