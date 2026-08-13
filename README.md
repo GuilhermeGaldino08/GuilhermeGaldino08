@@ -5,5 +5,3 @@
   <p>Também curso em paralelo o técnico em Análise e Desenvolvimento de Sistemas integrado ao Ensino Médio na instituição de ensino E. E. Parque Marajoara II, estou no quarto semestre.</p>
   <p>Busco adquirir o máximo de conhecimento possível e coloca-los em prática através de projetos.</p>
 </div>
----------------------
-https://github.com/GuilhermeGaldino08/GuilhermeGaldino08/blob/output/github-contribution-grid-snake2.svg
