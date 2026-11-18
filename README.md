@@ -32,9 +32,7 @@ Atualmente focado em construir uma base técnica sólida através da lógica de 
 
 ## 📊 Meu GitHub
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGaldino08&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ECEFF4" height="150" alt="Estatísticas do GitHub" />
-</div>
+
 
 <div align="left">
   <picture>
