@@ -19,8 +19,9 @@ Atualmente focado em construir uma base técnica sólida através da lógica de 
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white) &nbsp;
 [![Linux NDG](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.credly.com/badges/e852c405-c5b2-4362-a695-e848ec98556e/public_url)
 
-### 🔌 Hardware e sistemas embarcados
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+### 🔌 Sistemas embarcados
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) &nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
