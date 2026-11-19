@@ -1,6 +1,6 @@
 # Olá! Eu sou o Guilherme 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no **SENAI Cyber e IA** (São Caetano do Sul).
+Estudante de **Desenvolvimento de Sistemas** no **SENAI Cyber e IA** (São Caetano do Sul).
 
 Atualmente focado em construir uma base técnica sólida através da lógica de programação, algoritmos e Programação Orientada a Objetos (POO). 
 
